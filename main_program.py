@@ -1,3 +1,6 @@
+import display # To see what's in the grass
+import music_reports # To manage the file
+
 """
 The main program should use functions from music_reports and display modules
 """

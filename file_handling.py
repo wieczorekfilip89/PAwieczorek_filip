@@ -1,3 +1,5 @@
+import display # To see what's hidden
+
 def import_data(filename='albums_data.txt'):
     """
     Import data from a file to a list. Expected returned data format:

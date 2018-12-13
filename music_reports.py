@@ -1,3 +1,5 @@
+import display # For print
+import file_handling # to do something with file
 
 ARTIST = 0
 ALBUM = 1
